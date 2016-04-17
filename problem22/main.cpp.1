@@ -1,0 +1,46 @@
+#include <cstdio>
+#include <algorithm>
+#include <cassert>
+
+
+void Print(unsigned int *data, unsigned int cnt)
+{
+	for (size_t i = 0; i < cnt; ++i)
+		printf("%02u ", data[i]);
+
+	printf("\n");
+}
+
+void QuickSort(unsigned int *begin, unsigned int count)
+{
+	assert(count != 0);
+
+	unsigned int *left = begin;
+	unsigned int *right = begin + count - 1;
+	unsigned int *pivot = right;
+
+	while (left < right)
+	{
+		while (*left < *pivot)
+			++left;
+
+		while (*right > *pivot)
+			--right;
+
+		if (left <=right)
+			std::swap(*left, *right);
+	}
+
+	if (left < 
+	
+
+
+}
+
+int main(int argc, const char* argv[])
+{
+	unsigned int testcase[] = {45, 38, 12, 62, 42, 34, 8, 24, 76, 48};
+	QuickSort(testcase, sizeof(testcase) / sizeof(testcase[0]));
+	Print(testcase, sizeof(testcase) / sizeof(testcase[0]));
+
+}

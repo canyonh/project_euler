@@ -1,0 +1,126 @@
+#include <cstdio>
+#include <vector>
+#include <list>
+#include <cassert>
+#include <memory.h>
+#include "../util.h"
+
+void PrimeSieve(int max, std::vector<int>& primes)
+{
+	std::vector<int> marked(max, 0);
+
+	for (int i = 2; i < max; ++i)
+	{
+		if (marked[i] == 0)
+			primes.push_back(i);
+
+		int multiplier = 2;
+		int now = i;
+		while ( (now = i * multiplier) < max)
+		{
+			marked[now] = 1;
+			++multiplier;
+		}
+	}
+}
+
+void PrimeFactorize(int question, const std::vector<int> primes, std::vector<int>& result)
+{
+	if (question < 2)
+		return;
+
+	int primes_cnt = primes.size();
+	int left = question;
+	for (int i = 0; i < primes_cnt && left != 0; ++i)
+	{
+		int power = 0;
+		while (left % primes[i] == 0)
+		{
+			++power;
+			left /= primes[i];
+		}
+
+		if (power != 0)
+		{
+			result.push_back(primes[i]);
+			result.push_back(power);
+		}
+	}
+}
+
+int main(int argc, char* argv[])
+{
+	uint64_t start = GetRelativeWaitTime();
+
+	const unsigned max = 100;
+
+	std::vector<int> primes;
+	PrimeSieve(max, primes);
+	//for (int i = 0; i < primes.size(); ++i)
+	//	printf("%d ", primes[i]);
+
+	/*
+	for (int i = 2; i < 100; ++i)
+	{
+		std::vector<int> result;
+		PrimeFactorize(i, primes, result);
+		printf("%d factored into: ", i );
+		assert(result.size() % 2 == 0);
+		for (int j = 0; j < result.size(); j += 2)
+			printf("%d ^ %d ", result[j], result[j + 1]);
+	   	printf("\n");	
+	}
+	*/
+
+	std::list<std::vector<int>> result;
+
+	for (int i = 2; i <= 100; ++i)
+	{
+		std::vector<int> factored;
+		PrimeFactorize(i, primes, factored);
+		for (int j = 2; j <= 100; ++j)
+		{
+			std::vector<int> powered(factored);
+			for (int k = 1; k < powered.size(); k += 2)
+				powered[k] *= j;
+
+			//printf("%d ^ %d = ", i, j);
+			//for (int k = 0; k < powered.size(); k += 2)
+				//printf("%d ^ %d ", powered[k], powered[k + 1]);
+			//printf("\n");
+
+			result.push_back(powered);
+		}
+	}
+
+	//printf("size: %d\n", (int)result.size());
+
+	// remove duplication
+	for (auto it = std::begin(result); it != std::end(result); ++it)
+	{
+		const std::vector<int>& it_array = *it;
+
+		// check if the two prime factorization is identical
+		auto now = it;
+		while (++now != std::end(result))
+		{
+			if (*it == *now)
+			{
+				assert(it->size()== now->size());
+				//printf("erase: \n");
+				//for (int k = 0; k < it->size(); k += 2)
+					//printf("%d ^ %d ", it_array[k], it_array[k + 1]); 
+				//printf("\n");
+
+				//for (int k = 0; k < now->size(); k += 2)
+					//printf("%d ^ %d ", (*now)[k], (*now)[k + 1]); 
+				//printf("\n");
+				result.erase(now++);
+			}
+		}
+	}
+
+	uint64_t end = GetRelativeWaitTime();
+	printf("cnt: %d, time: %llu\n", (int)result.size(), end - start);
+	return 0;
+}

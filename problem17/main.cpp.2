@@ -1,0 +1,45 @@
+#include <cstdio>
+#include <cassert>
+
+const char* digits1[] = { "", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten" };
+const char* digits2[] = { "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen" };
+const char* digits3[] = { "twenty", "thirty", "fourty", "fifty", "sixty", "seventy", "eighty", "ninety" };
+const char* digits4[] = { "", "hundred" };	
+
+const char* NumToWord(int num)
+{
+	assert( num >= 1 && num <= 1000);
+	if (num <= 10)
+	{
+		return digits1[num];
+	}
+	else if (num >= 11 && num <= 19)
+	{
+		return digits2[num];
+	}
+	else if (num >= 100)
+	{
+		int tmp = num;
+		first_digit = tmp % 10;
+		tmp /= 10;
+		second_digit = tmp % 10;
+		tmp /= 10;
+		third_digit = tmp % 10;
+		char
+	}
+	else
+	{
+		assert(num == 1000);
+		return "onethousand";
+	}
+}
+
+int main(int argc, char* argv)
+{
+	for (int i = 1; i <= 1000; ++i)
+	{
+		printf("%s ", NumToWord(i);
+	}
+
+	return 0;
+}

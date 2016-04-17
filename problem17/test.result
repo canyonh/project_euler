@@ -1,0 +1,1002 @@
+   - 0, 0
+  one - 3, 3
+  two - 3, 6
+  three - 5, 11
+  four - 4, 15
+  five - 4, 19
+  six - 3, 22
+  seven - 5, 27
+  eight - 5, 32
+  nine - 4, 36
+  ten - 3, 39
+  eleven - 6, 45
+  twelve - 6, 51
+  thirteen - 8, 59
+  fourteen - 8, 67
+  fifteen - 7, 74
+  sixteen - 7, 81
+  seventeen - 9, 90
+  eighteen - 8, 98
+  nineteen - 8, 106
+  twenty  - 6, 112
+  twenty one - 9, 121
+  twenty two - 9, 130
+  twenty three - 11, 141
+  twenty four - 10, 151
+  twenty five - 10, 161
+  twenty six - 9, 170
+  twenty seven - 11, 181
+  twenty eight - 11, 192
+  twenty nine - 10, 202
+  thirty  - 6, 208
+  thirty one - 9, 217
+  thirty two - 9, 226
+  thirty three - 11, 237
+  thirty four - 10, 247
+  thirty five - 10, 257
+  thirty six - 9, 266
+  thirty seven - 11, 277
+  thirty eight - 11, 288
+  thirty nine - 10, 298
+  forty  - 5, 303
+  forty one - 8, 311
+  forty two - 8, 319
+  forty three - 10, 329
+  forty four - 9, 338
+  forty five - 9, 347
+  forty six - 8, 355
+  forty seven - 10, 365
+  forty eight - 10, 375
+  forty nine - 9, 384
+  fifty  - 5, 389
+  fifty one - 8, 397
+  fifty two - 8, 405
+  fifty three - 10, 415
+  fifty four - 9, 424
+  fifty five - 9, 433
+  fifty six - 8, 441
+  fifty seven - 10, 451
+  fifty eight - 10, 461
+  fifty nine - 9, 470
+  sixty  - 5, 475
+  sixty one - 8, 483
+  sixty two - 8, 491
+  sixty three - 10, 501
+  sixty four - 9, 510
+  sixty five - 9, 519
+  sixty six - 8, 527
+  sixty seven - 10, 537
+  sixty eight - 10, 547
+  sixty nine - 9, 556
+  seventy  - 7, 563
+  seventy one - 10, 573
+  seventy two - 10, 583
+  seventy three - 12, 595
+  seventy four - 11, 606
+  seventy five - 11, 617
+  seventy six - 10, 627
+  seventy seven - 12, 639
+  seventy eight - 12, 651
+  seventy nine - 11, 662
+  eighty  - 6, 668
+  eighty one - 9, 677
+  eighty two - 9, 686
+  eighty three - 11, 697
+  eighty four - 10, 707
+  eighty five - 10, 717
+  eighty six - 9, 726
+  eighty seven - 11, 737
+  eighty eight - 11, 748
+  eighty nine - 10, 758
+  ninety  - 6, 764
+  ninety one - 9, 773
+  ninety two - 9, 782
+  ninety three - 11, 793
+  ninety four - 10, 803
+  ninety five - 10, 813
+  ninety six - 9, 822
+  ninety seven - 11, 833
+  ninety eight - 11, 844
+  ninety nine - 10, 854
+one hundred  - 10, 864
+one hundred one - 13, 877
+one hundred two - 13, 890
+one hundred three - 15, 905
+one hundred four - 14, 919
+one hundred five - 14, 933
+one hundred six - 13, 946
+one hundred seven - 15, 961
+one hundred eight - 15, 976
+one hundred nine - 14, 990
+one hundred ten - 13, 1003
+one hundred eleven - 16, 1019
+one hundred twelve - 16, 1035
+one hundred thirteen - 18, 1053
+one hundred fourteen - 18, 1071
+one hundred fifteen - 17, 1088
+one hundred sixteen - 17, 1105
+one hundred seventeen - 19, 1124
+one hundred eighteen - 18, 1142
+one hundred nineteen - 18, 1160
+one hundred twenty  - 16, 1176
+one hundred twenty one - 19, 1195
+one hundred twenty two - 19, 1214
+one hundred twenty three - 21, 1235
+one hundred twenty four - 20, 1255
+one hundred twenty five - 20, 1275
+one hundred twenty six - 19, 1294
+one hundred twenty seven - 21, 1315
+one hundred twenty eight - 21, 1336
+one hundred twenty nine - 20, 1356
+one hundred thirty  - 16, 1372
+one hundred thirty one - 19, 1391
+one hundred thirty two - 19, 1410
+one hundred thirty three - 21, 1431
+one hundred thirty four - 20, 1451
+one hundred thirty five - 20, 1471
+one hundred thirty six - 19, 1490
+one hundred thirty seven - 21, 1511
+one hundred thirty eight - 21, 1532
+one hundred thirty nine - 20, 1552
+one hundred forty  - 15, 1567
+one hundred forty one - 18, 1585
+one hundred forty two - 18, 1603
+one hundred forty three - 20, 1623
+one hundred forty four - 19, 1642
+one hundred forty five - 19, 1661
+one hundred forty six - 18, 1679
+one hundred forty seven - 20, 1699
+one hundred forty eight - 20, 1719
+one hundred forty nine - 19, 1738
+one hundred fifty  - 15, 1753
+one hundred fifty one - 18, 1771
+one hundred fifty two - 18, 1789
+one hundred fifty three - 20, 1809
+one hundred fifty four - 19, 1828
+one hundred fifty five - 19, 1847
+one hundred fifty six - 18, 1865
+one hundred fifty seven - 20, 1885
+one hundred fifty eight - 20, 1905
+one hundred fifty nine - 19, 1924
+one hundred sixty  - 15, 1939
+one hundred sixty one - 18, 1957
+one hundred sixty two - 18, 1975
+one hundred sixty three - 20, 1995
+one hundred sixty four - 19, 2014
+one hundred sixty five - 19, 2033
+one hundred sixty six - 18, 2051
+one hundred sixty seven - 20, 2071
+one hundred sixty eight - 20, 2091
+one hundred sixty nine - 19, 2110
+one hundred seventy  - 17, 2127
+one hundred seventy one - 20, 2147
+one hundred seventy two - 20, 2167
+one hundred seventy three - 22, 2189
+one hundred seventy four - 21, 2210
+one hundred seventy five - 21, 2231
+one hundred seventy six - 20, 2251
+one hundred seventy seven - 22, 2273
+one hundred seventy eight - 22, 2295
+one hundred seventy nine - 21, 2316
+one hundred eighty  - 16, 2332
+one hundred eighty one - 19, 2351
+one hundred eighty two - 19, 2370
+one hundred eighty three - 21, 2391
+one hundred eighty four - 20, 2411
+one hundred eighty five - 20, 2431
+one hundred eighty six - 19, 2450
+one hundred eighty seven - 21, 2471
+one hundred eighty eight - 21, 2492
+one hundred eighty nine - 20, 2512
+one hundred ninety  - 16, 2528
+one hundred ninety one - 19, 2547
+one hundred ninety two - 19, 2566
+one hundred ninety three - 21, 2587
+one hundred ninety four - 20, 2607
+one hundred ninety five - 20, 2627
+one hundred ninety six - 19, 2646
+one hundred ninety seven - 21, 2667
+one hundred ninety eight - 21, 2688
+one hundred ninety nine - 20, 2708
+two hundred  - 10, 2718
+two hundred one - 13, 2731
+two hundred two - 13, 2744
+two hundred three - 15, 2759
+two hundred four - 14, 2773
+two hundred five - 14, 2787
+two hundred six - 13, 2800
+two hundred seven - 15, 2815
+two hundred eight - 15, 2830
+two hundred nine - 14, 2844
+two hundred ten - 13, 2857
+two hundred eleven - 16, 2873
+two hundred twelve - 16, 2889
+two hundred thirteen - 18, 2907
+two hundred fourteen - 18, 2925
+two hundred fifteen - 17, 2942
+two hundred sixteen - 17, 2959
+two hundred seventeen - 19, 2978
+two hundred eighteen - 18, 2996
+two hundred nineteen - 18, 3014
+two hundred twenty  - 16, 3030
+two hundred twenty one - 19, 3049
+two hundred twenty two - 19, 3068
+two hundred twenty three - 21, 3089
+two hundred twenty four - 20, 3109
+two hundred twenty five - 20, 3129
+two hundred twenty six - 19, 3148
+two hundred twenty seven - 21, 3169
+two hundred twenty eight - 21, 3190
+two hundred twenty nine - 20, 3210
+two hundred thirty  - 16, 3226
+two hundred thirty one - 19, 3245
+two hundred thirty two - 19, 3264
+two hundred thirty three - 21, 3285
+two hundred thirty four - 20, 3305
+two hundred thirty five - 20, 3325
+two hundred thirty six - 19, 3344
+two hundred thirty seven - 21, 3365
+two hundred thirty eight - 21, 3386
+two hundred thirty nine - 20, 3406
+two hundred forty  - 15, 3421
+two hundred forty one - 18, 3439
+two hundred forty two - 18, 3457
+two hundred forty three - 20, 3477
+two hundred forty four - 19, 3496
+two hundred forty five - 19, 3515
+two hundred forty six - 18, 3533
+two hundred forty seven - 20, 3553
+two hundred forty eight - 20, 3573
+two hundred forty nine - 19, 3592
+two hundred fifty  - 15, 3607
+two hundred fifty one - 18, 3625
+two hundred fifty two - 18, 3643
+two hundred fifty three - 20, 3663
+two hundred fifty four - 19, 3682
+two hundred fifty five - 19, 3701
+two hundred fifty six - 18, 3719
+two hundred fifty seven - 20, 3739
+two hundred fifty eight - 20, 3759
+two hundred fifty nine - 19, 3778
+two hundred sixty  - 15, 3793
+two hundred sixty one - 18, 3811
+two hundred sixty two - 18, 3829
+two hundred sixty three - 20, 3849
+two hundred sixty four - 19, 3868
+two hundred sixty five - 19, 3887
+two hundred sixty six - 18, 3905
+two hundred sixty seven - 20, 3925
+two hundred sixty eight - 20, 3945
+two hundred sixty nine - 19, 3964
+two hundred seventy  - 17, 3981
+two hundred seventy one - 20, 4001
+two hundred seventy two - 20, 4021
+two hundred seventy three - 22, 4043
+two hundred seventy four - 21, 4064
+two hundred seventy five - 21, 4085
+two hundred seventy six - 20, 4105
+two hundred seventy seven - 22, 4127
+two hundred seventy eight - 22, 4149
+two hundred seventy nine - 21, 4170
+two hundred eighty  - 16, 4186
+two hundred eighty one - 19, 4205
+two hundred eighty two - 19, 4224
+two hundred eighty three - 21, 4245
+two hundred eighty four - 20, 4265
+two hundred eighty five - 20, 4285
+two hundred eighty six - 19, 4304
+two hundred eighty seven - 21, 4325
+two hundred eighty eight - 21, 4346
+two hundred eighty nine - 20, 4366
+two hundred ninety  - 16, 4382
+two hundred ninety one - 19, 4401
+two hundred ninety two - 19, 4420
+two hundred ninety three - 21, 4441
+two hundred ninety four - 20, 4461
+two hundred ninety five - 20, 4481
+two hundred ninety six - 19, 4500
+two hundred ninety seven - 21, 4521
+two hundred ninety eight - 21, 4542
+two hundred ninety nine - 20, 4562
+three hundred  - 12, 4574
+three hundred one - 15, 4589
+three hundred two - 15, 4604
+three hundred three - 17, 4621
+three hundred four - 16, 4637
+three hundred five - 16, 4653
+three hundred six - 15, 4668
+three hundred seven - 17, 4685
+three hundred eight - 17, 4702
+three hundred nine - 16, 4718
+three hundred ten - 15, 4733
+three hundred eleven - 18, 4751
+three hundred twelve - 18, 4769
+three hundred thirteen - 20, 4789
+three hundred fourteen - 20, 4809
+three hundred fifteen - 19, 4828
+three hundred sixteen - 19, 4847
+three hundred seventeen - 21, 4868
+three hundred eighteen - 20, 4888
+three hundred nineteen - 20, 4908
+three hundred twenty  - 18, 4926
+three hundred twenty one - 21, 4947
+three hundred twenty two - 21, 4968
+three hundred twenty three - 23, 4991
+three hundred twenty four - 22, 5013
+three hundred twenty five - 22, 5035
+three hundred twenty six - 21, 5056
+three hundred twenty seven - 23, 5079
+three hundred twenty eight - 23, 5102
+three hundred twenty nine - 22, 5124
+three hundred thirty  - 18, 5142
+three hundred thirty one - 21, 5163
+three hundred thirty two - 21, 5184
+three hundred thirty three - 23, 5207
+three hundred thirty four - 22, 5229
+three hundred thirty five - 22, 5251
+three hundred thirty six - 21, 5272
+three hundred thirty seven - 23, 5295
+three hundred thirty eight - 23, 5318
+three hundred thirty nine - 22, 5340
+three hundred forty  - 17, 5357
+three hundred forty one - 20, 5377
+three hundred forty two - 20, 5397
+three hundred forty three - 22, 5419
+three hundred forty four - 21, 5440
+three hundred forty five - 21, 5461
+three hundred forty six - 20, 5481
+three hundred forty seven - 22, 5503
+three hundred forty eight - 22, 5525
+three hundred forty nine - 21, 5546
+three hundred fifty  - 17, 5563
+three hundred fifty one - 20, 5583
+three hundred fifty two - 20, 5603
+three hundred fifty three - 22, 5625
+three hundred fifty four - 21, 5646
+three hundred fifty five - 21, 5667
+three hundred fifty six - 20, 5687
+three hundred fifty seven - 22, 5709
+three hundred fifty eight - 22, 5731
+three hundred fifty nine - 21, 5752
+three hundred sixty  - 17, 5769
+three hundred sixty one - 20, 5789
+three hundred sixty two - 20, 5809
+three hundred sixty three - 22, 5831
+three hundred sixty four - 21, 5852
+three hundred sixty five - 21, 5873
+three hundred sixty six - 20, 5893
+three hundred sixty seven - 22, 5915
+three hundred sixty eight - 22, 5937
+three hundred sixty nine - 21, 5958
+three hundred seventy  - 19, 5977
+three hundred seventy one - 22, 5999
+three hundred seventy two - 22, 6021
+three hundred seventy three - 24, 6045
+three hundred seventy four - 23, 6068
+three hundred seventy five - 23, 6091
+three hundred seventy six - 22, 6113
+three hundred seventy seven - 24, 6137
+three hundred seventy eight - 24, 6161
+three hundred seventy nine - 23, 6184
+three hundred eighty  - 18, 6202
+three hundred eighty one - 21, 6223
+three hundred eighty two - 21, 6244
+three hundred eighty three - 23, 6267
+three hundred eighty four - 22, 6289
+three hundred eighty five - 22, 6311
+three hundred eighty six - 21, 6332
+three hundred eighty seven - 23, 6355
+three hundred eighty eight - 23, 6378
+three hundred eighty nine - 22, 6400
+three hundred ninety  - 18, 6418
+three hundred ninety one - 21, 6439
+three hundred ninety two - 21, 6460
+three hundred ninety three - 23, 6483
+three hundred ninety four - 22, 6505
+three hundred ninety five - 22, 6527
+three hundred ninety six - 21, 6548
+three hundred ninety seven - 23, 6571
+three hundred ninety eight - 23, 6594
+three hundred ninety nine - 22, 6616
+four hundred  - 11, 6627
+four hundred one - 14, 6641
+four hundred two - 14, 6655
+four hundred three - 16, 6671
+four hundred four - 15, 6686
+four hundred five - 15, 6701
+four hundred six - 14, 6715
+four hundred seven - 16, 6731
+four hundred eight - 16, 6747
+four hundred nine - 15, 6762
+four hundred ten - 14, 6776
+four hundred eleven - 17, 6793
+four hundred twelve - 17, 6810
+four hundred thirteen - 19, 6829
+four hundred fourteen - 19, 6848
+four hundred fifteen - 18, 6866
+four hundred sixteen - 18, 6884
+four hundred seventeen - 20, 6904
+four hundred eighteen - 19, 6923
+four hundred nineteen - 19, 6942
+four hundred twenty  - 17, 6959
+four hundred twenty one - 20, 6979
+four hundred twenty two - 20, 6999
+four hundred twenty three - 22, 7021
+four hundred twenty four - 21, 7042
+four hundred twenty five - 21, 7063
+four hundred twenty six - 20, 7083
+four hundred twenty seven - 22, 7105
+four hundred twenty eight - 22, 7127
+four hundred twenty nine - 21, 7148
+four hundred thirty  - 17, 7165
+four hundred thirty one - 20, 7185
+four hundred thirty two - 20, 7205
+four hundred thirty three - 22, 7227
+four hundred thirty four - 21, 7248
+four hundred thirty five - 21, 7269
+four hundred thirty six - 20, 7289
+four hundred thirty seven - 22, 7311
+four hundred thirty eight - 22, 7333
+four hundred thirty nine - 21, 7354
+four hundred forty  - 16, 7370
+four hundred forty one - 19, 7389
+four hundred forty two - 19, 7408
+four hundred forty three - 21, 7429
+four hundred forty four - 20, 7449
+four hundred forty five - 20, 7469
+four hundred forty six - 19, 7488
+four hundred forty seven - 21, 7509
+four hundred forty eight - 21, 7530
+four hundred forty nine - 20, 7550
+four hundred fifty  - 16, 7566
+four hundred fifty one - 19, 7585
+four hundred fifty two - 19, 7604
+four hundred fifty three - 21, 7625
+four hundred fifty four - 20, 7645
+four hundred fifty five - 20, 7665
+four hundred fifty six - 19, 7684
+four hundred fifty seven - 21, 7705
+four hundred fifty eight - 21, 7726
+four hundred fifty nine - 20, 7746
+four hundred sixty  - 16, 7762
+four hundred sixty one - 19, 7781
+four hundred sixty two - 19, 7800
+four hundred sixty three - 21, 7821
+four hundred sixty four - 20, 7841
+four hundred sixty five - 20, 7861
+four hundred sixty six - 19, 7880
+four hundred sixty seven - 21, 7901
+four hundred sixty eight - 21, 7922
+four hundred sixty nine - 20, 7942
+four hundred seventy  - 18, 7960
+four hundred seventy one - 21, 7981
+four hundred seventy two - 21, 8002
+four hundred seventy three - 23, 8025
+four hundred seventy four - 22, 8047
+four hundred seventy five - 22, 8069
+four hundred seventy six - 21, 8090
+four hundred seventy seven - 23, 8113
+four hundred seventy eight - 23, 8136
+four hundred seventy nine - 22, 8158
+four hundred eighty  - 17, 8175
+four hundred eighty one - 20, 8195
+four hundred eighty two - 20, 8215
+four hundred eighty three - 22, 8237
+four hundred eighty four - 21, 8258
+four hundred eighty five - 21, 8279
+four hundred eighty six - 20, 8299
+four hundred eighty seven - 22, 8321
+four hundred eighty eight - 22, 8343
+four hundred eighty nine - 21, 8364
+four hundred ninety  - 17, 8381
+four hundred ninety one - 20, 8401
+four hundred ninety two - 20, 8421
+four hundred ninety three - 22, 8443
+four hundred ninety four - 21, 8464
+four hundred ninety five - 21, 8485
+four hundred ninety six - 20, 8505
+four hundred ninety seven - 22, 8527
+four hundred ninety eight - 22, 8549
+four hundred ninety nine - 21, 8570
+five hundred  - 11, 8581
+five hundred one - 14, 8595
+five hundred two - 14, 8609
+five hundred three - 16, 8625
+five hundred four - 15, 8640
+five hundred five - 15, 8655
+five hundred six - 14, 8669
+five hundred seven - 16, 8685
+five hundred eight - 16, 8701
+five hundred nine - 15, 8716
+five hundred ten - 14, 8730
+five hundred eleven - 17, 8747
+five hundred twelve - 17, 8764
+five hundred thirteen - 19, 8783
+five hundred fourteen - 19, 8802
+five hundred fifteen - 18, 8820
+five hundred sixteen - 18, 8838
+five hundred seventeen - 20, 8858
+five hundred eighteen - 19, 8877
+five hundred nineteen - 19, 8896
+five hundred twenty  - 17, 8913
+five hundred twenty one - 20, 8933
+five hundred twenty two - 20, 8953
+five hundred twenty three - 22, 8975
+five hundred twenty four - 21, 8996
+five hundred twenty five - 21, 9017
+five hundred twenty six - 20, 9037
+five hundred twenty seven - 22, 9059
+five hundred twenty eight - 22, 9081
+five hundred twenty nine - 21, 9102
+five hundred thirty  - 17, 9119
+five hundred thirty one - 20, 9139
+five hundred thirty two - 20, 9159
+five hundred thirty three - 22, 9181
+five hundred thirty four - 21, 9202
+five hundred thirty five - 21, 9223
+five hundred thirty six - 20, 9243
+five hundred thirty seven - 22, 9265
+five hundred thirty eight - 22, 9287
+five hundred thirty nine - 21, 9308
+five hundred forty  - 16, 9324
+five hundred forty one - 19, 9343
+five hundred forty two - 19, 9362
+five hundred forty three - 21, 9383
+five hundred forty four - 20, 9403
+five hundred forty five - 20, 9423
+five hundred forty six - 19, 9442
+five hundred forty seven - 21, 9463
+five hundred forty eight - 21, 9484
+five hundred forty nine - 20, 9504
+five hundred fifty  - 16, 9520
+five hundred fifty one - 19, 9539
+five hundred fifty two - 19, 9558
+five hundred fifty three - 21, 9579
+five hundred fifty four - 20, 9599
+five hundred fifty five - 20, 9619
+five hundred fifty six - 19, 9638
+five hundred fifty seven - 21, 9659
+five hundred fifty eight - 21, 9680
+five hundred fifty nine - 20, 9700
+five hundred sixty  - 16, 9716
+five hundred sixty one - 19, 9735
+five hundred sixty two - 19, 9754
+five hundred sixty three - 21, 9775
+five hundred sixty four - 20, 9795
+five hundred sixty five - 20, 9815
+five hundred sixty six - 19, 9834
+five hundred sixty seven - 21, 9855
+five hundred sixty eight - 21, 9876
+five hundred sixty nine - 20, 9896
+five hundred seventy  - 18, 9914
+five hundred seventy one - 21, 9935
+five hundred seventy two - 21, 9956
+five hundred seventy three - 23, 9979
+five hundred seventy four - 22, 10001
+five hundred seventy five - 22, 10023
+five hundred seventy six - 21, 10044
+five hundred seventy seven - 23, 10067
+five hundred seventy eight - 23, 10090
+five hundred seventy nine - 22, 10112
+five hundred eighty  - 17, 10129
+five hundred eighty one - 20, 10149
+five hundred eighty two - 20, 10169
+five hundred eighty three - 22, 10191
+five hundred eighty four - 21, 10212
+five hundred eighty five - 21, 10233
+five hundred eighty six - 20, 10253
+five hundred eighty seven - 22, 10275
+five hundred eighty eight - 22, 10297
+five hundred eighty nine - 21, 10318
+five hundred ninety  - 17, 10335
+five hundred ninety one - 20, 10355
+five hundred ninety two - 20, 10375
+five hundred ninety three - 22, 10397
+five hundred ninety four - 21, 10418
+five hundred ninety five - 21, 10439
+five hundred ninety six - 20, 10459
+five hundred ninety seven - 22, 10481
+five hundred ninety eight - 22, 10503
+five hundred ninety nine - 21, 10524
+six hundred  - 10, 10534
+six hundred one - 13, 10547
+six hundred two - 13, 10560
+six hundred three - 15, 10575
+six hundred four - 14, 10589
+six hundred five - 14, 10603
+six hundred six - 13, 10616
+six hundred seven - 15, 10631
+six hundred eight - 15, 10646
+six hundred nine - 14, 10660
+six hundred ten - 13, 10673
+six hundred eleven - 16, 10689
+six hundred twelve - 16, 10705
+six hundred thirteen - 18, 10723
+six hundred fourteen - 18, 10741
+six hundred fifteen - 17, 10758
+six hundred sixteen - 17, 10775
+six hundred seventeen - 19, 10794
+six hundred eighteen - 18, 10812
+six hundred nineteen - 18, 10830
+six hundred twenty  - 16, 10846
+six hundred twenty one - 19, 10865
+six hundred twenty two - 19, 10884
+six hundred twenty three - 21, 10905
+six hundred twenty four - 20, 10925
+six hundred twenty five - 20, 10945
+six hundred twenty six - 19, 10964
+six hundred twenty seven - 21, 10985
+six hundred twenty eight - 21, 11006
+six hundred twenty nine - 20, 11026
+six hundred thirty  - 16, 11042
+six hundred thirty one - 19, 11061
+six hundred thirty two - 19, 11080
+six hundred thirty three - 21, 11101
+six hundred thirty four - 20, 11121
+six hundred thirty five - 20, 11141
+six hundred thirty six - 19, 11160
+six hundred thirty seven - 21, 11181
+six hundred thirty eight - 21, 11202
+six hundred thirty nine - 20, 11222
+six hundred forty  - 15, 11237
+six hundred forty one - 18, 11255
+six hundred forty two - 18, 11273
+six hundred forty three - 20, 11293
+six hundred forty four - 19, 11312
+six hundred forty five - 19, 11331
+six hundred forty six - 18, 11349
+six hundred forty seven - 20, 11369
+six hundred forty eight - 20, 11389
+six hundred forty nine - 19, 11408
+six hundred fifty  - 15, 11423
+six hundred fifty one - 18, 11441
+six hundred fifty two - 18, 11459
+six hundred fifty three - 20, 11479
+six hundred fifty four - 19, 11498
+six hundred fifty five - 19, 11517
+six hundred fifty six - 18, 11535
+six hundred fifty seven - 20, 11555
+six hundred fifty eight - 20, 11575
+six hundred fifty nine - 19, 11594
+six hundred sixty  - 15, 11609
+six hundred sixty one - 18, 11627
+six hundred sixty two - 18, 11645
+six hundred sixty three - 20, 11665
+six hundred sixty four - 19, 11684
+six hundred sixty five - 19, 11703
+six hundred sixty six - 18, 11721
+six hundred sixty seven - 20, 11741
+six hundred sixty eight - 20, 11761
+six hundred sixty nine - 19, 11780
+six hundred seventy  - 17, 11797
+six hundred seventy one - 20, 11817
+six hundred seventy two - 20, 11837
+six hundred seventy three - 22, 11859
+six hundred seventy four - 21, 11880
+six hundred seventy five - 21, 11901
+six hundred seventy six - 20, 11921
+six hundred seventy seven - 22, 11943
+six hundred seventy eight - 22, 11965
+six hundred seventy nine - 21, 11986
+six hundred eighty  - 16, 12002
+six hundred eighty one - 19, 12021
+six hundred eighty two - 19, 12040
+six hundred eighty three - 21, 12061
+six hundred eighty four - 20, 12081
+six hundred eighty five - 20, 12101
+six hundred eighty six - 19, 12120
+six hundred eighty seven - 21, 12141
+six hundred eighty eight - 21, 12162
+six hundred eighty nine - 20, 12182
+six hundred ninety  - 16, 12198
+six hundred ninety one - 19, 12217
+six hundred ninety two - 19, 12236
+six hundred ninety three - 21, 12257
+six hundred ninety four - 20, 12277
+six hundred ninety five - 20, 12297
+six hundred ninety six - 19, 12316
+six hundred ninety seven - 21, 12337
+six hundred ninety eight - 21, 12358
+six hundred ninety nine - 20, 12378
+seven hundred  - 12, 12390
+seven hundred one - 15, 12405
+seven hundred two - 15, 12420
+seven hundred three - 17, 12437
+seven hundred four - 16, 12453
+seven hundred five - 16, 12469
+seven hundred six - 15, 12484
+seven hundred seven - 17, 12501
+seven hundred eight - 17, 12518
+seven hundred nine - 16, 12534
+seven hundred ten - 15, 12549
+seven hundred eleven - 18, 12567
+seven hundred twelve - 18, 12585
+seven hundred thirteen - 20, 12605
+seven hundred fourteen - 20, 12625
+seven hundred fifteen - 19, 12644
+seven hundred sixteen - 19, 12663
+seven hundred seventeen - 21, 12684
+seven hundred eighteen - 20, 12704
+seven hundred nineteen - 20, 12724
+seven hundred twenty  - 18, 12742
+seven hundred twenty one - 21, 12763
+seven hundred twenty two - 21, 12784
+seven hundred twenty three - 23, 12807
+seven hundred twenty four - 22, 12829
+seven hundred twenty five - 22, 12851
+seven hundred twenty six - 21, 12872
+seven hundred twenty seven - 23, 12895
+seven hundred twenty eight - 23, 12918
+seven hundred twenty nine - 22, 12940
+seven hundred thirty  - 18, 12958
+seven hundred thirty one - 21, 12979
+seven hundred thirty two - 21, 13000
+seven hundred thirty three - 23, 13023
+seven hundred thirty four - 22, 13045
+seven hundred thirty five - 22, 13067
+seven hundred thirty six - 21, 13088
+seven hundred thirty seven - 23, 13111
+seven hundred thirty eight - 23, 13134
+seven hundred thirty nine - 22, 13156
+seven hundred forty  - 17, 13173
+seven hundred forty one - 20, 13193
+seven hundred forty two - 20, 13213
+seven hundred forty three - 22, 13235
+seven hundred forty four - 21, 13256
+seven hundred forty five - 21, 13277
+seven hundred forty six - 20, 13297
+seven hundred forty seven - 22, 13319
+seven hundred forty eight - 22, 13341
+seven hundred forty nine - 21, 13362
+seven hundred fifty  - 17, 13379
+seven hundred fifty one - 20, 13399
+seven hundred fifty two - 20, 13419
+seven hundred fifty three - 22, 13441
+seven hundred fifty four - 21, 13462
+seven hundred fifty five - 21, 13483
+seven hundred fifty six - 20, 13503
+seven hundred fifty seven - 22, 13525
+seven hundred fifty eight - 22, 13547
+seven hundred fifty nine - 21, 13568
+seven hundred sixty  - 17, 13585
+seven hundred sixty one - 20, 13605
+seven hundred sixty two - 20, 13625
+seven hundred sixty three - 22, 13647
+seven hundred sixty four - 21, 13668
+seven hundred sixty five - 21, 13689
+seven hundred sixty six - 20, 13709
+seven hundred sixty seven - 22, 13731
+seven hundred sixty eight - 22, 13753
+seven hundred sixty nine - 21, 13774
+seven hundred seventy  - 19, 13793
+seven hundred seventy one - 22, 13815
+seven hundred seventy two - 22, 13837
+seven hundred seventy three - 24, 13861
+seven hundred seventy four - 23, 13884
+seven hundred seventy five - 23, 13907
+seven hundred seventy six - 22, 13929
+seven hundred seventy seven - 24, 13953
+seven hundred seventy eight - 24, 13977
+seven hundred seventy nine - 23, 14000
+seven hundred eighty  - 18, 14018
+seven hundred eighty one - 21, 14039
+seven hundred eighty two - 21, 14060
+seven hundred eighty three - 23, 14083
+seven hundred eighty four - 22, 14105
+seven hundred eighty five - 22, 14127
+seven hundred eighty six - 21, 14148
+seven hundred eighty seven - 23, 14171
+seven hundred eighty eight - 23, 14194
+seven hundred eighty nine - 22, 14216
+seven hundred ninety  - 18, 14234
+seven hundred ninety one - 21, 14255
+seven hundred ninety two - 21, 14276
+seven hundred ninety three - 23, 14299
+seven hundred ninety four - 22, 14321
+seven hundred ninety five - 22, 14343
+seven hundred ninety six - 21, 14364
+seven hundred ninety seven - 23, 14387
+seven hundred ninety eight - 23, 14410
+seven hundred ninety nine - 22, 14432
+eight hundred  - 12, 14444
+eight hundred one - 15, 14459
+eight hundred two - 15, 14474
+eight hundred three - 17, 14491
+eight hundred four - 16, 14507
+eight hundred five - 16, 14523
+eight hundred six - 15, 14538
+eight hundred seven - 17, 14555
+eight hundred eight - 17, 14572
+eight hundred nine - 16, 14588
+eight hundred ten - 15, 14603
+eight hundred eleven - 18, 14621
+eight hundred twelve - 18, 14639
+eight hundred thirteen - 20, 14659
+eight hundred fourteen - 20, 14679
+eight hundred fifteen - 19, 14698
+eight hundred sixteen - 19, 14717
+eight hundred seventeen - 21, 14738
+eight hundred eighteen - 20, 14758
+eight hundred nineteen - 20, 14778
+eight hundred twenty  - 18, 14796
+eight hundred twenty one - 21, 14817
+eight hundred twenty two - 21, 14838
+eight hundred twenty three - 23, 14861
+eight hundred twenty four - 22, 14883
+eight hundred twenty five - 22, 14905
+eight hundred twenty six - 21, 14926
+eight hundred twenty seven - 23, 14949
+eight hundred twenty eight - 23, 14972
+eight hundred twenty nine - 22, 14994
+eight hundred thirty  - 18, 15012
+eight hundred thirty one - 21, 15033
+eight hundred thirty two - 21, 15054
+eight hundred thirty three - 23, 15077
+eight hundred thirty four - 22, 15099
+eight hundred thirty five - 22, 15121
+eight hundred thirty six - 21, 15142
+eight hundred thirty seven - 23, 15165
+eight hundred thirty eight - 23, 15188
+eight hundred thirty nine - 22, 15210
+eight hundred forty  - 17, 15227
+eight hundred forty one - 20, 15247
+eight hundred forty two - 20, 15267
+eight hundred forty three - 22, 15289
+eight hundred forty four - 21, 15310
+eight hundred forty five - 21, 15331
+eight hundred forty six - 20, 15351
+eight hundred forty seven - 22, 15373
+eight hundred forty eight - 22, 15395
+eight hundred forty nine - 21, 15416
+eight hundred fifty  - 17, 15433
+eight hundred fifty one - 20, 15453
+eight hundred fifty two - 20, 15473
+eight hundred fifty three - 22, 15495
+eight hundred fifty four - 21, 15516
+eight hundred fifty five - 21, 15537
+eight hundred fifty six - 20, 15557
+eight hundred fifty seven - 22, 15579
+eight hundred fifty eight - 22, 15601
+eight hundred fifty nine - 21, 15622
+eight hundred sixty  - 17, 15639
+eight hundred sixty one - 20, 15659
+eight hundred sixty two - 20, 15679
+eight hundred sixty three - 22, 15701
+eight hundred sixty four - 21, 15722
+eight hundred sixty five - 21, 15743
+eight hundred sixty six - 20, 15763
+eight hundred sixty seven - 22, 15785
+eight hundred sixty eight - 22, 15807
+eight hundred sixty nine - 21, 15828
+eight hundred seventy  - 19, 15847
+eight hundred seventy one - 22, 15869
+eight hundred seventy two - 22, 15891
+eight hundred seventy three - 24, 15915
+eight hundred seventy four - 23, 15938
+eight hundred seventy five - 23, 15961
+eight hundred seventy six - 22, 15983
+eight hundred seventy seven - 24, 16007
+eight hundred seventy eight - 24, 16031
+eight hundred seventy nine - 23, 16054
+eight hundred eighty  - 18, 16072
+eight hundred eighty one - 21, 16093
+eight hundred eighty two - 21, 16114
+eight hundred eighty three - 23, 16137
+eight hundred eighty four - 22, 16159
+eight hundred eighty five - 22, 16181
+eight hundred eighty six - 21, 16202
+eight hundred eighty seven - 23, 16225
+eight hundred eighty eight - 23, 16248
+eight hundred eighty nine - 22, 16270
+eight hundred ninety  - 18, 16288
+eight hundred ninety one - 21, 16309
+eight hundred ninety two - 21, 16330
+eight hundred ninety three - 23, 16353
+eight hundred ninety four - 22, 16375
+eight hundred ninety five - 22, 16397
+eight hundred ninety six - 21, 16418
+eight hundred ninety seven - 23, 16441
+eight hundred ninety eight - 23, 16464
+eight hundred ninety nine - 22, 16486
+nine hundred  - 11, 16497
+nine hundred one - 14, 16511
+nine hundred two - 14, 16525
+nine hundred three - 16, 16541
+nine hundred four - 15, 16556
+nine hundred five - 15, 16571
+nine hundred six - 14, 16585
+nine hundred seven - 16, 16601
+nine hundred eight - 16, 16617
+nine hundred nine - 15, 16632
+nine hundred ten - 14, 16646
+nine hundred eleven - 17, 16663
+nine hundred twelve - 17, 16680
+nine hundred thirteen - 19, 16699
+nine hundred fourteen - 19, 16718
+nine hundred fifteen - 18, 16736
+nine hundred sixteen - 18, 16754
+nine hundred seventeen - 20, 16774
+nine hundred eighteen - 19, 16793
+nine hundred nineteen - 19, 16812
+nine hundred twenty  - 17, 16829
+nine hundred twenty one - 20, 16849
+nine hundred twenty two - 20, 16869
+nine hundred twenty three - 22, 16891
+nine hundred twenty four - 21, 16912
+nine hundred twenty five - 21, 16933
+nine hundred twenty six - 20, 16953
+nine hundred twenty seven - 22, 16975
+nine hundred twenty eight - 22, 16997
+nine hundred twenty nine - 21, 17018
+nine hundred thirty  - 17, 17035
+nine hundred thirty one - 20, 17055
+nine hundred thirty two - 20, 17075
+nine hundred thirty three - 22, 17097
+nine hundred thirty four - 21, 17118
+nine hundred thirty five - 21, 17139
+nine hundred thirty six - 20, 17159
+nine hundred thirty seven - 22, 17181
+nine hundred thirty eight - 22, 17203
+nine hundred thirty nine - 21, 17224
+nine hundred forty  - 16, 17240
+nine hundred forty one - 19, 17259
+nine hundred forty two - 19, 17278
+nine hundred forty three - 21, 17299
+nine hundred forty four - 20, 17319
+nine hundred forty five - 20, 17339
+nine hundred forty six - 19, 17358
+nine hundred forty seven - 21, 17379
+nine hundred forty eight - 21, 17400
+nine hundred forty nine - 20, 17420
+nine hundred fifty  - 16, 17436
+nine hundred fifty one - 19, 17455
+nine hundred fifty two - 19, 17474
+nine hundred fifty three - 21, 17495
+nine hundred fifty four - 20, 17515
+nine hundred fifty five - 20, 17535
+nine hundred fifty six - 19, 17554
+nine hundred fifty seven - 21, 17575
+nine hundred fifty eight - 21, 17596
+nine hundred fifty nine - 20, 17616
+nine hundred sixty  - 16, 17632
+nine hundred sixty one - 19, 17651
+nine hundred sixty two - 19, 17670
+nine hundred sixty three - 21, 17691
+nine hundred sixty four - 20, 17711
+nine hundred sixty five - 20, 17731
+nine hundred sixty six - 19, 17750
+nine hundred sixty seven - 21, 17771
+nine hundred sixty eight - 21, 17792
+nine hundred sixty nine - 20, 17812
+nine hundred seventy  - 18, 17830
+nine hundred seventy one - 21, 17851
+nine hundred seventy two - 21, 17872
+nine hundred seventy three - 23, 17895
+nine hundred seventy four - 22, 17917
+nine hundred seventy five - 22, 17939
+nine hundred seventy six - 21, 17960
+nine hundred seventy seven - 23, 17983
+nine hundred seventy eight - 23, 18006
+nine hundred seventy nine - 22, 18028
+nine hundred eighty  - 17, 18045
+nine hundred eighty one - 20, 18065
+nine hundred eighty two - 20, 18085
+nine hundred eighty three - 22, 18107
+nine hundred eighty four - 21, 18128
+nine hundred eighty five - 21, 18149
+nine hundred eighty six - 20, 18169
+nine hundred eighty seven - 22, 18191
+nine hundred eighty eight - 22, 18213
+nine hundred eighty nine - 21, 18234
+nine hundred ninety  - 17, 18251
+nine hundred ninety one - 20, 18271
+nine hundred ninety two - 20, 18291
+nine hundred ninety three - 22, 18313
+nine hundred ninety four - 21, 18334
+nine hundred ninety five - 21, 18355
+nine hundred ninety six - 20, 18375
+nine hundred ninety seven - 22, 18397
+nine hundred ninety eight - 22, 18419
+nine hundred ninety nine - 21, 18440
+one thousand
+answer: 18451

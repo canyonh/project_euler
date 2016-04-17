@@ -1,0 +1,83 @@
+#include <cstdio>
+#include <memory.h>
+
+const unsigned int length = 200;
+unsigned int buffer1[length];
+unsigned int buffer2[length];
+
+void Print(unsigned int *input, unsigned int cnt)
+{
+	bool valid = false;
+	for (ssize_t i = cnt - 1;i >= 0; --i)
+	{
+		if (!valid && input[i] != 0)
+			valid = true;
+
+		if (valid)
+			printf("%u ", input[i]);
+	}
+	printf("\n");
+}
+
+int main(int argc, char* argv[])
+{
+	memset(buffer1, 0, sizeof(buffer1));
+	memset(buffer2, 0, sizeof(buffer2));
+
+	unsigned int *output = buffer2;
+	unsigned int *input = buffer1;
+
+	// starts with 1
+	input[0] = 1;
+	for (size_t i = 1; i < 100; ++i)
+	{
+		unsigned int val = i + 1;
+		unsigned int input2[3];
+		input2[0] = val % 10;
+		val /= 10;
+		input2[1] = val % 10;
+		val /= 10;
+		input2[2] = val % 10;
+		if (i == 43)
+		{
+			printf("input2:\n");
+			Print(input2, 3);
+			printf("input:\n");
+			Print(input, length);
+		}
+
+		for (size_t j = 0; j < length; ++j)
+		{
+			for (size_t k = 0; k < 3; ++k)
+			{
+				unsigned int tmp = input2[k] * input[j] + output[j + k];
+				if (i == 43)
+				{
+					printf("%lu: %u * %u -> %u\n", j, input2[k], input[j], tmp);
+				}
+				output[j + k] = 0;
+				unsigned int digit = 0;
+				while (tmp > 0)
+				{
+					output[j + k + digit] += tmp % 10;
+					if (i == 43)
+						printf("digit %lu -> %u\n", j + k + digit, output[j + k + digit]);
+					tmp /= 10;
+					++digit;
+				}
+			}
+		}
+		printf("%lu!:\n", i + 1);
+		Print(output, length);
+			
+		//if (i != 100 - 1)
+		//{
+			unsigned int *tmp = input;
+			input = output;
+			output = tmp;
+			memset(output, 0, length);
+		//}
+	}
+
+	return 0;
+}

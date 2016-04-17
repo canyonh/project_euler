@@ -1,0 +1,62 @@
+#include "../util.h"
+#include <cstdio>
+
+void Calculate()
+{
+	for (int i = 0; i < 9; i += 2)
+	{
+		uint16_t available_digits = 0x03FF;
+		printf("i:%d %d\n", i, available_digits);
+		available_digits ^= (1 << i);
+
+		for (int j = 0; j < 6; j += 5)
+		{
+			printf("j:%d %d \n", j, available_digits);
+			if (((1 << j) & available_digits) == 0)
+				continue;
+
+			available_digits ^= (1 << j);
+			for (int k = 0; k < 10; ++k)
+			{
+				printf("k:%d %d\n", k, available_digits);
+				if (((1 << k) & available_digits) == 0)
+					continue;
+
+				available_digits ^= (1 << k);
+
+				int remainder = 3 - ((k + i) % 3);
+				for (int l = remainder; l < 10; l += 3)
+				{
+					printf("l: %d %d \n", l, available_digits);
+					if (((1 << l) & available_digits) == 0)
+						continue;
+
+					available_digits ^= (1 << l);
+					for (int m = 0; m < 10; ++m)
+					{
+						printf("m: %d %d \n", m, available_digits);
+						if (((1 << m) & available_digits) == 0)
+							continue;
+
+						available_digits ^= (1 << m);
+						if ((k * 100 + j * 10 + m) % 7 == 0)
+							printf("%d%d%d%d%d\n", k, i, l, j, m);
+
+						if ((l * 100 + j * 10 + m) % 7 == 0)
+							printf("%d%d%d%d%d\n", l, i, k, j, m);
+					}
+				}
+			}
+		}
+	}
+}
+
+int main(int argc, char* argv[])
+{
+	uint64_t start = GetRelativeWaitTime();
+
+	Calculate();
+
+	printf("time: %llu\n", GetRelativeWaitTime() - start);
+	return 0;
+}
